@@ -5,3 +5,5 @@ A nice semi-dark Emacs 24 theme. The orange and green hues give it a distinctly 
 the green and amber terminals of ancient computer lore.
 
 ![Screenshot](https://github.com/caldwell/calmer-forest-theme/raw/master/Screenshot.png)
+
+Now available on [Melpa](http://melpa.milkbox.net/).
