@@ -6,4 +6,4 @@ the green and amber terminals of ancient computer lore.
 
 ![Screenshot](https://github.com/caldwell/calmer-forest-theme/raw/master/Screenshot.png)
 
-Now available on [Melpa](http://melpa.milkbox.net/).
+Now available on [Melpa](https://melpa.org/).
