@@ -116,7 +116,7 @@
   '(font-lock-warning-face ((t (:bold t :foreground "Pink" :weight bold))))
   '(fringe ((t (:background "grey10"))))
   '(header-line ((t (:box (:line-width -1 :style released-button) :background "grey20" :foreground "grey90" :box nil))))
-  '(highlight ((t (:background "darkolivegreen"))))
+  '(highlight ((t (:background "#213121"))))
   '(hours-interval-face ((t (:foreground "LightSteelBlue" :weight bold))))
   '(hours-invoice-face ((t (:foreground "LightGoldenrod" :weight bold))))
   '(info-header-node ((t (:italic t :bold t :weight bold :slant italic :foreground "white"))))
