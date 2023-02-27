@@ -175,9 +175,9 @@
   '(widget-button ((t (:bold t :weight bold))))
   '(widget-button-pressed ((t (:foreground "red"))))
   '(widget-documentation ((t (:foreground "lime green"))))
-  '(widget-field ((t (:background "dim gray"))))
+  '(widget-field ((t (:background "gray20"))))
   '(widget-inactive ((t (:foreground "light gray"))))
-  '(widget-single-line-field ((t (:background "dim gray")))))
+  '(widget-single-line-field ((t (:background "gray20")))))
 
 ;;;###autoload
 (when load-file-name
